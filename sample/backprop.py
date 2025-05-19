@@ -1,3 +1,4 @@
+trail
 #source https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795
 def full_backward_propagation(Y_hat, Y, memory, params_values, nn_architecture):
     grads_values = {}
